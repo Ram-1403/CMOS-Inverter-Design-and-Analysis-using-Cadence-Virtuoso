@@ -20,7 +20,7 @@ The CMOS inverter consists of complementary PMOS and NMOS transistors configured
 - **PMOS (M0)**: W = 180.0n, L = 50n/1.50n
 - **NMOS (M1)**: W = 90n, L = 50n/1.50n
 - **Supply Voltage**: VDD = 1.2V (typical)
-- **Load Capacitance**: 1fF
+
 
 ### Key Parameters Analyzed
 - **VOH**: Output High Voltage
