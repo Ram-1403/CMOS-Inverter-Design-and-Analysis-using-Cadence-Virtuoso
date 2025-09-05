@@ -31,23 +31,7 @@ The CMOS inverter consists of complementary PMOS and NMOS transistors configured
 - **NMH**: High-level noise margin
 - **NML**: Low-level noise margin
 
-## Repository Structure
 
-```
-├── README.md                          # This file
-├── schematics/                        # Cadence Virtuoso schematic files
-│   ├── inverter_schematic/            # Main inverter circuit
-│   └── testbench/                     # Simulation testbench
-├── simulation_results/                # Output waveforms and data
-│   ├── vtc_analysis/                  # Voltage transfer characteristics
-│   ├── noise_margin_plots/            # VIH, VIL, VOH, VOL analysis
-│   └── operating_regions/             # Current analysis results
-├── netlists/                          # SPICE netlists
-├── documentation/                     # Additional documentation
-│   ├── design_methodology.md          # Design approach and methodology
-│   └── analysis_report.md             # Detailed analysis results
-└── .gitignore                         # Git ignore file for Cadence files
-```
 
 ## Analysis Results
 
